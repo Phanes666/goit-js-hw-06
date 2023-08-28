@@ -26,7 +26,3 @@ nameInput.addEventListener('input', handleInputChange);
 
 
 
-
-
-
-
